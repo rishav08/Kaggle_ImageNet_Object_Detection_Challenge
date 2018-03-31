@@ -1,0 +1,4 @@
+https://github.com/balancap/SSD-Tensorflow
+https://github.com/amdegroot/ssd.pytorch
+https://github.com/kuangliu/pytorch-ssd
+http://host.robots.ox.ac.uk/pascal/VOC/voc2008/htmldoc/voc.html#SECTION00031000000000000000
